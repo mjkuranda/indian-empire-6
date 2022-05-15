@@ -1,0 +1,66 @@
+main#mail {}
+
+#options div.flexBox a svg {
+	fill: #97651a;
+}
+
+/* e. g. 'Your inbox is empty' */
+#mail-no {
+	background-color: #f3dcba;
+}
+
+	#mail-no > div {
+		margin: 40px 0;
+		padding: 20px;
+		font-size: 24px;
+		font-weight: 700;
+		background-color: #eecc99;
+		border: 3px outset #eecc99;
+		border-radius: 8px;
+	}
+
+.non-read td {
+	font-weight: 700;
+}
+	
+
+
+/* Mail list rendering */
+#mails table {
+	width: 100%;
+	border: 2px outset #97651a;
+	border-spacing: 0;
+	background-color: #f3dcba;
+}
+
+#mails table .mail-date-sent,
+#mails table .mail-date-opened {
+	width: 20%;
+}
+
+#mails table .mail-sender {
+	width: 25%;
+}
+
+
+
+#mails table tr + tr {
+	cursor: pointer;
+}
+
+	#mails table tr + tr:hover {
+		background-color: #97651a;
+	}
+	
+	#mails table tr + tr td {
+		padding-left: 4px;
+	}
+
+#mails table th {
+	padding: 20px 0;
+	background-color: #b97b20;
+}
+
+#mails table td {
+	padding: 10px 0;
+}

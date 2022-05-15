@@ -1,0 +1,87 @@
+main {
+    background-color: #f3dcba;
+}
+
+main > div > p {
+    text-align: center;
+}
+
+main > div:first-child {
+    padding-top: 20px;
+}
+
+/* Button part */
+main > div > div {
+    padding-bottom: 20px;
+}
+
+
+
+/* ------ LOADING FRAME ------ */
+
+#initFrame {
+    width: 100%;
+    height: 100%;
+    background-color: #f3dcba;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* opacity: 0.5; */
+    opacity: 1;
+}
+#initFrame.loaded { transition: 1000ms; opacity: 0; }
+
+#initFrame > section {
+    padding: 10px;
+}
+
+#logo {
+    width: 64px;
+    height: 64px;
+    background-color: rgba(204,170,85,1);
+    border-radius: 50%;
+}
+
+#logo > img {
+    width: 50%;
+    height: 50%;
+}
+
+#title {
+    margin: 10px 0;
+    text-shadow: 1px 1px grey;
+}
+
+/* Progress element */
+progress {
+    border: 0;
+    height: 20px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+/* Bar without value */
+progress::-webkit-progress-bar {
+    border: 0;
+    height: 20px;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+/* Progress value */
+progress::-webkit-progress-value {
+    border: 0;
+    height: 20px;
+    border-radius: 20px;
+
+    background-image: -webkit-linear-gradient(left, #b97b20, rgba(204,170,85,1));
+}
+/*progress::-moz-progress-bar {
+    border: 0;
+    height: 20px;
+    border-radius: 20px;
+}*/
+
+#info-loader {
+    margin: 8px 0;
+}

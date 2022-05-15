@@ -1,0 +1,49 @@
+#mail table {
+	width: 100%;
+	border: 2px outset #97651a;
+	border-spacing: 0;
+	background-color: #f3dcba;
+}
+
+#mail table .mail-date-sent,
+#mail table .mail-date-opened {
+	width: 20%;
+}
+
+#mail table .mail-sender {
+	width: 25%;
+}
+
+
+
+#mail table th {
+	padding: 20px 0;
+	background-color: #b97b20;
+}
+
+#mail table td {
+	padding: 10px 0;
+	padding-left: 4px;
+}
+
+	#mail table td + td {
+		border-left: 3px solid #b97b20;
+	}
+	
+
+
+#mail-contents > div {
+	margin: 10px 0;
+}
+
+
+
+form {
+	display: flex;
+	justify-content: flex-end;
+
+	margin: 20px 0;
+}
+
+/* Two buttons */
+form .button + .button { margin-left: 5px 0; }

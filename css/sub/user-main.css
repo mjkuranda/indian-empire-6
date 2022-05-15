@@ -1,0 +1,36 @@
+main {}
+
+	main h2 { 
+		padding: 20px 0;
+		font-size: 30px;
+	}
+	
+	main span.line {
+		width: 2px;
+		height: 80px;
+		margin: 0 20px;
+		background-color: #97651a;
+	}
+	
+		#options > div.flexBox {
+			padding: 10px;
+			width: 100%;
+			background-color: #ccaa55;
+			border: 3px outset #ccaa55;
+		}
+
+			#options a { text-decoration: none; }
+			
+				#options a svg {
+					width: 64px;
+					height: 64px;
+					padding: 5px;
+					border: 3px solid rgba(0, 0, 0, 0);
+				}
+				
+				#options a svg:hover {
+					background-color: #ffddaa;
+					border: 3px outset #ffddaa;
+					opacity: .75;
+					transition: 200ms;
+				}

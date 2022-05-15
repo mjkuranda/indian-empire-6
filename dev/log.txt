@@ -1,0 +1,177 @@
+ALPHA - W tych wersjach mogą występować wszelakie błędy, bądź niedociągnięcia.
+	Wiele elementów nie jest dodanych.
+
+BETA  - W tych wersjach występują błędy, jednak zawartość jest już bogatsza, zaś
+	większość założeń została zaimplenetowana.
+
+RELEASED - W tych wersjach znajdują się wszystkie niezbędne założenia.
+	Zawartość jest bardzo bogata i mogą pojawiać się dodatki do gry.
+
+
+
+ALPHA 0.1
+	2020-08-11
+		- założenie strony
+		- próba połączenia z bazą
+		
+		
+		
+ALPHA 0.2
+	2020-08-12
+		- połączenie się z bazą danych
+		- rozpoczęcie rozwijania projektu lokalnie
+		- dodanie wstępnego szablonu
+		- utworzenie pliku zarządzania bazą danych
+		
+		
+		
+ALPHA 0.3
+	2020-08-13
+		- ostylowanie wstępne strony: nagłówek, zawartość (środek) oraz stopka.
+		- stworzenie paska w zawartości oraz go ostylowanie
+		- dodanie przycisków w zawartości oraz ich ostylowanie
+		- dodanie systemu zarządzania podstronami
+		- dodanie zarządzania error404
+
+
+			ALPHA 0.3.1
+				2020-08-13
+					- responsywność w pełni
+					- przyciski dostosowują szerokość do długości strony oraz 'bar' się rozciąga.
+					
+
+
+ALPHA 0.4.0 (RegLog & User update)
+	2020-08-14
+		- dodano system logowania się
+		- dodano system rejestracji
+		- po rejestracji, użytkownik otrzymuje link aktywacyjny na podany adres e-mail w celu weryfikacji.
+		- użytkownicy nie mogą tworzyć kont o takich samych adresach e-mail, bądź nazwie użytkownika.
+		
+		
+			ALPHA 0.4.1
+				2020-08-15
+					- zmiana systemu logowania. Od teraz na wskazany adres email
+					  otrzymujesz kod aktywacyjny, który należy podać po rejestracji.
+					  
+					  
+			ALPHA 0.4.2
+				2020-08-17
+					- usunięto białe znaki przy rejestracji i logowaniu na końcu i na początku zmiennej.
+					- dodano opcję przejścia do podstrony weryfikacji dla niezalogowanych, aby zapobiec
+					  utracie możliwości aktywacji swojego konta zaraz po rejestracji.
+					- trochę uproszczono kod zarządzania podstroną weryfikacji.
+					- zaktualizowano podstronę weryfikacji.
+					- kiedy jesteś zalogowany, nie możesz udać się na podstronę rejestracji/logowania/weryfikacji.
+					- wprowadzono możliwość zmiany hasła.
+					- jeżeli jesteś niezalogowany, nie masz możliwości wejścia na powyższą podstronę.
+					- dodanie w pasku użytkownika odnośnika do podstrony.
+					- ostylowanie logowania i rejestracji.
+
+			ALPHA 0.4.3
+				2020-08-18
+					- ostylowanie weryfikacji i zmiany hasła. Dodatkowy margines dla div'ów reglog.
+					- poprawiono błąd przy weryfikacji - podano mail z pola a żądał z get'a.
+					- dodano proste okno twórców.
+					- responsywny pasek dla użytkowników.
+					- zawartość określa wysokość strony.
+					- zaczątek systemu wiadomości.
+					- można wysyłać wiadomości.
+					- walidacja po stronie serwera (dla wiadomości).
+					- czyszczenie post dla wiadomości, rejestracji, logowania, hasła i weryfikacji.
+					
+			ALPHA 0.4.4
+				2020-08-19
+					- dodanie ikonki.
+					- naprawa błędu przekierowania.
+					- aby przejść do podstrony wiadomości, musisz być zalogowany.
+					- ostylowanie podstrony przychodzących wiadomości.
+					- pobranie biblioteki jQuery.
+					- ostylowanie podstrony wysłanych wiadomości.
+					- dodanie pliku zarządania wiadomościami (JS).
+					- po naciśnięciu na wiadomość zostajesz przeniesiony na jej podstronę.
+					- od teraz poprawnie wyświetlają się wiadomości.
+					- naprawienie błędu przy rejestracji - brak adresu e-mail
+			ALPHA 0.4.5
+				2020-08-20
+					- od teraz system rozpoznaje aktywne konto (zalogowane/niezalogowane)
+					- podstrona 'main' wyświetla informacje o zarejestrowanych użytkownikach
+					  oraz o ilości zalogowanych (aktywnych)
+					- skrypt do wyboru imienia indianina
+			ALPHA 0.4.6
+				2020-08-21
+					- walidacja po stronie przeglądarki dla podstrony mail
+					- przechodzenie do wiadomości
+					
+ALPHA 0.5.0 (Design, Client Side & More options)
+	2020-08-27
+		- opracowanie graficznego wyglądu strony
+		- stworzenie szablonu
+	2020-08-28   -   2020-08-29
+		- programowanie nowego wyglądu
+		- strona w nowym stylu
+		- podstrona /user - panel użytkownika
+		- wejście w podstronę gry jako gość przenosi do logowania
+	2020-08-31
+		- zapisywanie ilości wizyt dla zalogowanych, jak i niezalogowanych oraz ich wyświetlanie.
+		- prawidłowe wyświetlanie ilości osób aktywnych.
+		- poprawa odnośników w głównej podstronie.
+		- stworzenie panelu użytkownika.
+		- dodano ponownie inbox, outbox i send message.
+		- ostylowano wysyłanie wiadomości.
+		- przy usuwaniu wiadomości wyskakuje okienko
+		- ostylowanie podstrony twórców
+	2020-09-01
+		- zadania cron na 24 godziny (tworzenie nowej tabelki dla wyświetleń)
+		- poprawa dla wyświetlania ilości wyświetleń.
+		- całkowite opublikowanie nowej wersji! :)
+	
+		ALPHA 0.5.1
+			2020-09-05
+				- zadania cron o północy (1. dodawanie rekordu wizyt, 2. usuwanie użytkowników, którzy nie aktywowali kont)
+				- testy wstępne do menu rozwijalnego
+
+ALPHA 0.6.0
+	2020-12-07
+		- poprawiono szerokość strony w wersji mobilnej
+		- header rozwijalny przy widoku mobilnym
+		- poprawiono responsywę postów
+	2020-12-08
+		- aside sfaktoryzowany
+		- dodanie dwóch kwerend:
+			- trzech ostatnich użytkowników zarejestrowanych wraz z datą
+			- ile wyświetleń strony z dnia obecnego
+		- zmiana funkcji zwijania i rozwijania nav'a
+
+		ALPHA 0.6.1
+			2020-12-08
+				- dodanie tabelki postów bazie danych i wprowadzenie dwóch rekordów
+				- system wyświetlanie na stronie głównej trzech najnowszych rekordów
+				- zmiana systemu wizyt/odsłon. Odtąd operują one na plikach cookies.
+			
+		ALPHA 0.6.2	
+			2020-12-09
+				- aktualizacja posta
+				- aktualizacja czytania maili
+				- wyświetlanie wiadomości pogrubionym tekstem, które nie zostały odczytane
+				- usuwanie wiadomości - kto usunął zostaje zapisane w bazie danych
+				- cookie user i guest - sprawdzanie czy te same dane, zmieniony system, jednak przy zmianie użytkowników nadal problem
+				- zmiana -> dla każdego użytkownika tworzony jest plik cookie
+				- po zmianie wielkości okna nie występuje już błąd związany z nav-list
+				- odtąd przy przechodzeniu nad podstrony nav-lista nie jest rozwinięta
+				- poprawa responsywy przy reglog
+			2020-12-10
+				- usunięcie wirtualnych wielkości dla body
+				- usunięcie padding'u oraz wielkości dla forma w reglog'u
+				- dodanie spacji dla dwóch i wielu dni od posta
+
+		ALPHA 0.6.3
+			2020-12-11
+				- dodanie możliwości przeglądania postów
+				- usunięcie pliku main-post.js z użytku
+
+		ALPHA 0.6.4
+			2020-12-12
+				- dodanie game subsite.
+				- dodanie game.log pliku do folderu dev (drugi easter egg? ;D)
+				- Indian Empire Game Pre-Alpha 0.0.1 estimated lol ;D

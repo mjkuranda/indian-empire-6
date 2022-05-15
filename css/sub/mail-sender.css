@@ -1,0 +1,33 @@
+textarea {
+	resize: none;
+}
+
+form {
+	margin: 10px 0;
+}
+
+
+#mail-title {
+	margin: 20px 0;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+#chars-counter {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.mail-element {
+	margin: 20px 0;
+}
+
+/* Button submit */
+#button-submit {
+	display: flex;
+	justify-content: flex-end;
+}
+
+	#button-submit > input[type="submit"].button {
+		margin: 40px 0 20px 0;
+	}

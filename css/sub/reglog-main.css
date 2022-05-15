@@ -1,0 +1,103 @@
+main {
+	background: url('../../img/bg.png');
+	background-size: cover;
+	height: 1024px;
+}
+
+@media all and (max-width: 1100px) {
+	main {
+		height: auto;
+	}
+}
+
+body {
+	overflow-x: hidden;
+}
+
+#reglog-baner {
+	opacity: 0.9;
+	padding: 20px;
+	
+	/* When the image will change, then bottom line you can delete and insert right image */
+	text-align: center;
+	font-size: 4em;
+}
+
+#reglog-title {
+	margin: 40px 0;
+}
+
+form {
+	width: 100%;
+	/* height: 270px; */
+	background-color: rgba(200, 200, 200, 0.65);
+	/* padding-top: 20px; */
+	margin-top: 10px;
+}
+
+	form div.flexBox {
+		margin: 20px 0;
+	}
+
+@media all and (max-width: 1100px) {
+	form {
+		margin: 0;
+	}
+}
+
+
+.reglog-element {
+}
+
+@media all and (min-width: 600px) {
+	label.reglog-element {
+		width: 150px;
+		height: 20px;
+	}
+	
+	input.reglog-element {
+		width: 200px;
+		height: 20px;
+	}
+	
+		.button {
+			margin-top: 20px;
+		}
+}
+		
+		
+#reglog-error {
+	background-color: rgba(200, 200, 200, .8);
+	padding: 10px 0;
+}
+
+#reglog-error > div {
+	text-align: center;
+}
+
+
+@media all and (max-width: 1100px) {
+	#reglog-baner {
+		padding: 0;
+	}
+
+	form h2 {
+		font-size: 18px;
+	}
+
+	label.reglog-element {
+		font-size: 14px;
+	}
+
+	form input {
+		width: 120px;
+		height: 20px;
+		margin-left: 10px;
+	}
+}
+
+
+
+#reglog-baner img {
+	width: 100%;
+}

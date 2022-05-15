@@ -1,0 +1,30 @@
+#credits {
+	margin-bottom: 40px;
+}
+
+#credits h2 {
+	margin: 20px 0;
+}
+
+/* The gold bar ;) */
+#credits section.flexBox .credits-section-title {
+	margin-bottom: 10px;
+	padding: 8px;
+	background: linear-gradient(0deg, rgba(255,221,170,1) 0%, rgba(204,170,85,1) 100%);
+	border: 1px outset rgb(255,221,170);
+}
+
+#credits section.flexBox > div {
+	width: 400px;
+}
+
+#credits section + section {
+	margin-top: 40px;
+}
+
+
+
+hr {
+	margin: 40px 0;
+	border-color: #b97b20;
+}

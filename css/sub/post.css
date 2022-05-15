@@ -1,0 +1,37 @@
+main {
+    background-color: #f3dcba;
+}
+
+main > section {
+    width: 66%;
+}
+
+@media all and (max-width: 1100px) {
+    main > section {
+        width: 90%;
+    }
+}
+
+/* h2 element */
+main div.flexBox {
+    padding: 40px 0;
+    text-decoration: underline;
+}
+
+/* content element */
+main div.flexLeft > p::first-letter {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/* bottom element */
+main div.flexRight {
+    padding: 20px 0;
+}
+
+
+
+/* button element */
+.post-nav {
+    padding: 10px 0 30px 0;
+}

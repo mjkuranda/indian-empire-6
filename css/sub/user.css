@@ -1,0 +1,29 @@
+	#user-data { background-color: #ffddaa; }
+	
+		#user-data > div.flexBox {
+			width: 100%;
+		}
+			
+			#col-titles div {
+				font-weight: 700;
+			}
+		
+			#user-data > div.flexBox section {
+				width: 30%;
+				margin: 10px 0;
+				background-color: #f3dcba;
+			}
+		
+			#user-data > div.flexBox section + section {}
+			
+				#user-data > div.flexBox section div {
+					padding: 10px 5px;
+					border: 2px outset #f3dcba;
+				}
+
+/* SVG icon */
+#user-pass-change {}
+
+#user-mail {
+	fill: #97651a;
+}

@@ -1,0 +1,15 @@
+#error404 > section {
+	display: flex;
+	justify-content: center;
+}
+
+#error-content {
+	width: 400px;
+	text-align: center;
+	background-color: #f3dcba;
+	margin: 40px;
+	padding: 40px;
+	font-size: 20px;
+	border: 2px outset #f3dcba;
+	border-radius: 12px;
+}

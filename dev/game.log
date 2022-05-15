@@ -1,0 +1,34 @@
+[PRE - ALPHA v. 0.0.1 ]
+2020-12-12
+    - dodanie podstrony 'game'
+
+[PRE - ALPHA v. 0.0.2 ]
+2021-05-14
+    - dodanie mapy, wycentrowanie jej
+    - podzielenie jej na mnóstwo prowincji
+    - dodanie 26 obsługiwalnych prowincji
+
+[PRE - ALPHA v. 0.0.3 ]
+2021-05-15
+    - Dodanie około 90 kolejnych prowincji (łącznie około 114 ?) - jednak 115 prowincji ;D
+    - Dodanie przełączania trzech trybów mapy
+    - Dodanie możliwości wyboru prowincji
+    - Dolny pasek pod mapą: wybór plemienia, wyświetlenie nazwy i przycisk dalszej gry
+    - Dodanie ekranu ładowania (implementacja własnego modułu)
+    - Dodanie handlera podstron (masz wioskę, czy nie)
+    - cały system poprawnie działający, tylko wrzucić na niedziałający hosting ... ;D
+
+[PRE - ALPHA v. 0.0.4 ]
+2021-05-17
+    - dodanie tabel: tribes i players. Dodanie plemienia Dakota jako rekordu.
+    - dodanie tabel zasobów, budynków
+    - dodanie wstępnego wyglądu wioski (wyświetlane tabelki)
+    - dodanie 5 imion żeńskich i męskich plemienia Dakota
+    - dodanie identyfikatorów dla prowincji
+    - dodano plik tribes.json, gdzie znajdują się dostępne plemiona dla konkretnych grup językowych
+    - zapisywanie id prowincji wybranej do zmiennej i przygotowanie do przeniesienia do wioski
+    - naprawiony błąd z pustym select'em
+    - tworzenie danych dla wioski
+    - kod SQL dodawania ludzi, budynków oraz surowców do bazy
+    - działa wybieranie prowincji, cały system. Yeey! ;D
+    - Beta 0.1 estimated...

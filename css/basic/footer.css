@@ -1,0 +1,15 @@
+footer {
+	background-color: #b97b20;
+	height: 120px;
+}
+
+footer > div {
+	height: 100%; 
+	flex-direction: column;
+}
+
+footer > div section + section {
+	margin-top: 20px;
+}
+
+footer h2, h3, h4, h5, h6 {text-align: center;}

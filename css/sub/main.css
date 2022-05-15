@@ -1,0 +1,228 @@
+main {
+	/*
+		3 the earliest messages from the creator
+		3 * 300px = 900px
+		4 * 20px (the space) = 80px
+		900px + 80px = 980px the whole site.
+	*/
+	height: 980px;
+	display: flex;
+	flex-direction: row-reverse; /* to reverse the two elements */
+}
+
+	article {
+		padding: 20px;
+	}
+
+		.news {
+			background-color: #e7b66e;
+			width: 820px;
+			height: 300px;
+			
+			border: 2px outset #e7b66e;
+		}
+
+			.news h2 {
+				height: 40px;
+				padding: 10px;
+				text-decoration: underline;
+			}
+
+			.news .middle {
+				height: 140px;
+				margin: 20px;
+			}
+
+				.clamp {
+					display: -webkit-box;
+					/* max-height: 75px; */
+					overflow: hidden;
+					text-overflow: ellipsis;
+					-webkit-line-clamp: 7;
+					-webkit-box-orient: vertical;
+				}
+
+				/* .news .middle p:first-letter {
+					font-weight: 700;
+					font-size: 20px;
+				}
+				
+				.news .middle p {
+					--width: width;
+					font-size: 17px;
+				} */
+
+				.news .bottom {
+					height: 40px;
+					
+					display: flex;
+					justify-content: space-between;
+					padding: 10px;
+				}
+				
+					.news .bottom p {
+						display: flex;
+						align-items: center;
+					}
+
+		.news + .news { margin-top: 20px; }
+		
+		
+aside {
+	width: 280px;
+	background-color: #e1a851;
+}
+
+aside > table {
+	width: 100%;
+}
+aside > table td {
+	width: 50%;
+	text-align: center;
+}
+aside > table {
+	border: 3px outset #e7b66e;
+	padding: 2px;
+}
+.table__header {
+	font-size: 24px;
+	font-weight: 700;
+	padding: 8px 0;
+}
+.table__title {
+	font-size: 18px;
+	font-weight: 700;
+	padding: 2px 0;
+}
+.table__highlighted {
+	background-color: #e7b66e99;
+}
+/* the space vertical between the lines */
+.table__interline {
+	padding: 2px 0;
+}
+
+	aside hr {
+		width: 80%;
+		margin: 30px auto;
+		border: 1px inset gray;
+	}
+
+	.aside-part {
+		margin: 10px;
+	}
+	
+		.aside-part h2 {
+			text-align: center;
+			margin-bottom: 10px;
+		}
+		
+		.aside-part:first-child h2 {
+			margin-top: 20px;
+		}
+	
+		.aside-part > section {
+			display: flex;
+			justify-content: center;
+		}
+		
+			.aside-part > section div.aside-col {
+				width: 50%;
+			}
+			
+				.aside-part > section div div {
+					text-align: center;
+					margin: 10px;
+				}
+				
+	#user-verify {
+		margin-top: 20px;
+	}
+	
+	
+	
+/* Responsive */
+@media all and (max-width: 1100px) {
+	main {
+		display: block;
+		flex-direction: row; /* to reverse the two elements */
+		height: auto;
+	}
+
+		header > div > nav > #nav-list {
+			display: none;
+		}
+	
+		article {
+			margin: 0 auto;
+		}
+		
+			.news { width: auto; }
+
+				.news > h2 {
+					font-size: 20px;
+				}
+		
+				.news > .bottom {
+					align-items: center;
+				}
+		
+					.news > .bottom > button {
+						width: 100px;
+						height: 20px;
+						font-size: 9px;
+					}
+
+				.news > .bottom > p > .post-date {
+						display: none;
+					}
+			
+				.news > .bottom > p > strong,
+				.news > .bottom > p > .post-diff {
+						font-size: 10px;
+					}
+		
+		aside {
+			width: 100%;
+			/* height: 400px; */
+		}
+		
+		.aside-part:first-child h2 {
+			margin-top: -10px;
+			padding-top: 20px;
+		}
+
+		.clamp {
+			-webkit-line-clamp: 10;
+		}
+}
+ 
+/* @media all and (max-width: 550px) {
+	.news .bottom p {
+		font-size: 12px;
+	}
+} */
+
+.news-text {
+	font-size: 17px;
+}
+@media all and (max-width: 900px) {
+	.news-text {
+		font-size: 16px;
+	}
+}
+@media all and (max-width: 800px) {
+	.news-text {
+		font-size: 14px;
+	}
+}
+@media all and (max-width: 700px) {
+	.news-text {
+		font-size: 13px;
+	}
+}
+@media all and (max-width: 600px) {
+	.news-text {
+		font-size: 12px;
+	}
+}
