@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="50 -20 100 400"
+   width="600px"
+   height="600px"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="map-america.svg">
+  <title
+     id="title123"></title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-24.970433"
+     inkscape:cy="789.08679"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:snap-others="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <!--<dc:title>Indian rovinces</dc:title>-->
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     <!--inkscape:label="Indian provinces"-->
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path title="Crow" class="gSiouan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.751489,214.69047 -5.291667,-8.22098 0.377976,-5.95312 c 0,0 4.252232,-3.77976 4.819195,-3.68527 0.566965,0.0945 14.835565,-2.36235 14.835565,-2.36235 l 1.795389,-2.74033 -0.850448,-5.48065 4.913691,-0.94495 13.512649,15.02456 8.409969,19.18229 -16.347469,0.47247 -4.252232,-3.40179 -8.12649,-3.0238 -3.496278,-4.15774 -7.465031,1.6064 z"
+       id="prov0" />
+    <path title="Southern Dakota" class="gSiouan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.273808,219.50967 6.236612,-8.78795 26.64732,7.9375 2.64583,-2.36235 0.0945,-4.25223 -2.55134,-3.87425 -2.92931,-10.11087 c 0,0 -3.68527,-0.18899 -3.59077,-0.85045 0.0945,-0.66145 0,-3.30729 0,-3.30729 l -12.66221,-3.30729 -1.5119,-2.17336 -23.987345,8.3497 3.198654,3.55655 z"
+       id="prov1" />
+    <path title="Northern Dakota" class="gSiouan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.665193,196.77083 23.987347,-8.3497 -4.72471,-2.92932 -0.56697,-6.3311 1.51191,-4.63021 -25.513396,0.37798 1.41741,4.44122 -1.039434,2.07887 -5.38616,3.87425 z"
+       id="prov2" />
+    <path title="Assiniboin" class="gSiouan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.359374,174.90848 -1.511906,-4.8192 5.386163,-12.18973 6.520087,-1.32292 12.000742,4.72471 5.00819,7.74851 -1.88988,5.48065 z"
+       id="prov3" />
+    <path title="Piegan" class="gAlonquian tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.233631,157.89955 -44.341394,-11.97039 1.870888,6.28083 -1.469983,6.54811 4.677217,7.21627 -0.668174,5.61266 5.535613,28.92934 4.526288,-3.59494 15.128472,-2.45268 1.795389,-2.74033 -0.850448,-5.48065 4.913691,-0.94495 5.38616,-3.87425 1.039434,-2.07887 -2.929316,-9.26042 z"
+       id="prov4" />
+    <path title="Cheyenne" class="gAlonquian tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.751489,214.69047 4.918694,5.67325 0.534537,4.40995 3.073601,4.00904 -0.267271,4.54358 -4.543581,5.87993 8.552624,4.40995 6.548104,-0.93544 4.009044,-9.2208 h 2.405425 l 1.336346,-5.87993 2.405428,-3.60814 -2.798101,-3.98972 -4.252232,-3.40179 -8.12649,-3.0238 -3.496278,-4.15774 -7.465031,1.6064 z"
+       id="prov5" />
+    <path title="Omaha" class="gSiouan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.273808,219.50967 3.422242,2.32403 20.44612,10.02261 4.54359,-4.81085 0.93544,-5.21176 3.53654,-3.17448 -26.64732,-7.9375 z"
+       id="prov6" />
+    <path title="Blood" class="gAlonquian tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 103.75446,161.30134 101.29515,146.8646 92.608891,127.22029 107.17508,114.79226 91.406177,102.6315 80.84903,98.889724 l -20.312483,2.539056 -8.68626,18.17433 h -19.64431 l -3.207234,3.47451 6.548104,13.0962 h 3.608139 l 1.737251,9.75534 44.341394,11.97039 6.520087,-1.32292 z"
+       id="prov7" />
+    <path title="Ute" class="gUto-Aztecan tGreatBasin"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 49.169685,191.79875 -7.74291,2.63983 -5.078119,27.39512 -2.271792,11.75986 3.474503,10.15625 4.543584,2.13815 7.750815,-5.34539 2.138156,-1.87089 7.483547,0.53454 4.543581,-5.87993 0.267271,-4.54358 -3.073601,-4.00904 -0.534537,-4.40995 -4.918694,-5.67325 -5.291667,-8.22098 0.377976,-5.95312 z"
+       id="prov8" />
+    <path title="Beaver" class="gAthabaskan tSubarctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.998743,123.07762 -6.414468,-3.34087 -4.810852,5.07812 -1.737251,4.94448 -4.810852,-0.4009 -1.4699823,-3.34087 -4.0090429,-6.1472 1.3363475,-16.1698 11.2253197,-9.087169 -0.534539,-6.147199 -7.082642,-3.474503 -2.1381563,-6.548104 49.8457663,0.267269 2.138156,22.717906 -8.68626,18.17433 h -19.64431 z"
+       id="prov9" />
+    <path title="Cree" class="gAlonquian tSubarctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 108.76265,169.04985 17.4814,-22.96205 25.89136,-8.88244 -10.9613,-10.58334 -6.61459,1.32292 -0.37797,-9.44941 -7.55953,-3.21279 -19.44694,-0.49048 -14.566189,12.42803 8.686259,19.64431 2.45931,14.43674 z"
+       id="prov10" />
+    <path title="Dogrib" class="gAthabaskan tSubarctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8.5526247,78.443605 8.41899,59.601105 4.1426775,48.509419 5.0781209,44.901281 53.453905,35.279578 63.877417,40.892237 82.319012,66.951015 58.398391,78.710874 Z"
+       id="prov11" />
+    <path title="Chipewyan" class="gAthabaskan tSubarctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.62202,115.28274 1.40008,-7.84039 -9.08716,-11.091687 -4.14268,-14.833457 -7.75082,-7.750818 -17.639783,-0.400905 -7.082647,-6.414468 -23.920619,11.759859 2.138156,22.717906 20.312483,-2.539056 10.557147,3.741776 15.768903,12.16076 z"
+       id="prov12" />
+    <path title="Pawnee" class="gOtherGroups tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.926339,219.98214 16.347469,-0.47247 3.422242,2.32403 -3.340864,5.61267 0.133633,2.93996 2.806331,3.0736 -0.53454,3.87541 -3.0736,2.13815 -15.902535,0.13364 -0.801809,-6.1472 1.336344,-5.87993 2.40543,-3.60814 z"
+       id="prov13" />
+    <path title="Kiowa" class="gUto-Aztecan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.68701,239.47349 -3.741772,7.75082 -9.354434,2.27179 -16.570711,-5.87993 6.548104,-0.93544 4.009044,-9.2208 h 2.405425 l 0.801809,6.1472 c 0,0 15.902535,-0.13364 15.902535,-0.13364 z"
+       id="prov14" />
+    <path title="Iowa" class="gSiouan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.68701,239.47349 5.34539,3.60814 17.90706,0.93544 0.40091,-3.20723 -2.00453,-2.27179 2.80633,-6.68174 -20.44612,-10.02261 -3.340864,5.61267 0.133633,2.93996 2.806331,3.0736 -0.53454,3.87541 z"
+       id="prov15" />
+    <path title="Southern Ojibwa" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 124.82665,193.90178 6.80359,-0.13138 4.67722,-4.54358 4.14267,0.26727 4.40995,-6.01356 3.87541,0.13363 2.53906,-15.50163 -35.71979,-7.98422 -6.79211,8.92154 -3.40179,10.11086 0.56697,6.3311 4.72471,2.92932 1.5119,2.17336 z"
+       id="prov16" />
+    <path title="Northern Ojibwa" class="gAlonquian tSubarctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 151.27455,168.11253 27.88616,-1.42503 -8.12649,-11.52828 1.32292,-15.30803 -12.85119,0.94494 -7.37054,-3.59077 -25.89136,8.88244 -10.68929,14.04051 z"
+       id="prov17" />
+    <path title="Kutchin" class="gAthabaskan tSubarctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5.0781209,44.901281 0.75595238,35.907739 -7.2760416,28.631697 -8.6934523,10.961309 23.8125,7.7485117 34.584822,22.017113 53.453905,35.279578 Z"
+       id="prov18" />
+    <path title="Koyukon" class="gAthabaskan tSubarctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 23.8125,7.7485117 -1.889881,-8.59895811 1.700893,-5.38616079 -4.535715,-14.5520828 -6.425595,-2.929316 -8.598958,0.09449 -15.591518,8.882441 -15.119048,4.724702 -0.377976,4.5357142 1.700893,8.8824405 11.717262,1.7008927 4.9136907,5.8586306 z"
+       id="prov19" />
+    <path title="Tlingit" class="gOtherGroups tNorthwestCoast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -7.2760416,28.631697 -15.875,31.75 l 4.157738,3.401785 -0.755952,3.212798 7.9374998,12.284226 -0.1889882,14.363096 -4.346726,14.552083 L 8.5526247,78.443605 8.41899,59.601105 4.1426775,48.509419 5.0781209,44.901281 0.75595238,35.907739 Z"
+       id="prov20" />
+    <path title="Haida" class="gOtherGroups tNorthwestCoast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -9.0714284,79.563988 -12.095238,92.604166 -15.119047,109.42411 5.7462948,119.87038 7.0826423,103.70058 18.307962,94.613409 17.773423,88.466212 10.690781,84.991709 8.5526247,78.443605 Z"
+       id="prov21" />
+    <path title="Aleut" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -15.875,31.75 -16.999151,-9.032091 3.741772,-6.147198 -6.815373,-1.202713 -3.073598,4.677216 -26.192414,-8.953529 -6.147199,-4.9444858 V 0 l 3.073598,1.8708867 14.566191,7.6171813 9.621702,-2.9399648 -5.479026,-3.7417731 24.254093,0.5954516 11.717262,1.7008928 4.9136907,5.8586345 1.4174107,17.670388 z"
+       id="prov22" />
+    <path title="Western Alaskan Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -49.578498,2.8063301 1.069079,-6.5481035 c 0,0 -5.211755,-2.0045214 -4.81085,-2.5390605 0.400904,-0.534539 5.879928,-5.6126601 5.879928,-5.6126601 l 0.668173,-8.018086 7.082644,-7.884449 12.828937,1.202711 c 0,0 4.944486,6.414469 5.479025,6.815373 0.534539,0.400905 8.285355,-2.138156 8.285355,-2.138156 l 8.3471786,3.31291 -6.7792456,3.862116 -15.119048,4.724702 -0.377976,4.5357143 1.700893,8.8824404 z"
+       id="prov23" />
+    <path title="Eastern Alaskan Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -13.096207,-21.916101 -4.009043,-3.474504 -2.405425,-9.488069 6.281508,-6.320731 9.4494052,7.9375 9.8273808,-9.827379 5.669643,4.157736 11.717261,2.645833 8.693452,7.9375 L 31.75,-14.363095 39.6875,-3.4017857 44.979166,15.875 34.584822,22.017113 23.8125,7.7485117 21.922619,-0.85044639 23.623512,-6.2366072 19.087797,-20.78869 l -6.425595,-2.929316 -8.598958,0.09449 -8.8122724,5.020325 z"
+       id="prov24" />
+    <path title="Keresan" class="gUto-Aztecan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.020093,243.61617 -10.824416,11.89349 12.962572,16.57072 21.916102,-3.74177 0.400904,-12.56168 -2.339213,-7.62753 -5.54524,1.3467 z"
+       id="prov25" />
+    <path title="Comanche" class="gUto-Aztecan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.074351,268.33861 3.875407,4.6772 7.082642,1.73726 1.06908,7.34991 -8.151722,8.01809 -9.488066,1.20272 -5.612662,-3.87541 -3.608136,-10.55716 -7.082645,-4.81084 z"
+       id="prov26" />
+    <path title="Hopi" class="gAthabaskan tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.076864,233.59356 -2.806329,-1.60361 -13.096207,11.09168 v 3.0736 l -2.004522,0.80181 -2.004521,4.14268 4.142677,11.22532 16.30344,-0.13364 7.483549,-16.30344 -4.543584,-2.13815 z"
+       id="prov27" />
+    <path title="Zuni" class="gAthabaskan tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.611402,262.1914 28.859763,1.34053 -6.275488,-8.02227 10.824416,-11.89349 -8.552624,-4.40995 -7.483547,-0.53454 -9.888971,7.21628 z"
+       id="prov28" />
+    <path title="Mackenzie Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.979166,15.875 6.614583,-1.889881 14.930059,4.157738 19.84375,-15.4970237 7.9375,-11.1502974 L 119.44047,-15.875 132.48065,6.4255951 116.79464,25.324405 96.572915,34.962798 75.406249,29.482142 63.877417,40.892237 53.453905,35.279578 34.584822,22.017113 Z"
+       id="prov29" />
+    <path title="Copper Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.877417,40.892237 18.441593,26.058778 7.082647,6.414466 17.639783,0.400907 -7.255726,-13.290198 18.520836,-10.205357 4.7247,-7.559524 1.5119,-11.717261 -7.74851,-5.669643 -20.221727,9.638393 -21.166664,-5.480656 z"
+       id="prov30" />
+    <path title="Polar Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.44047,-15.875 15.79791,-5.773831 16.57071,-18.708866 20.04521,-1.603618 5.61266,16.57071 5.07813,11.759859 -4.89628,14.19771027 -16.06399,0.94494043 1.13393,12.6622023 -36.01877,-0.783851 5.78067,-6.9646609 z"
+       id="prov31" />
+    <path title="Iglulik Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.69998,13.390256 -9.90534,11.934149 7.74851,5.669643 -1.5119,11.717261 46.30208,-3.401785 12.09524,-8.882441 -18.70982,-16.252976 z"
+       id="prov32" />
+    <path title="Caribou Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 128.0221,107.44235 14.47492,-17.484018 7.74851,-5.858631 4.72471,-16.819941 -36.66369,-17.008927 -18.520836,10.205357 7.255726,13.290198 7.75082,7.750818 4.14268,14.833457 z"
+       id="prov33" />
+    <path title="Netsilik Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.97024,67.27976 6.80357,2.456847 6.42559,-8.882441 1.13393,-21.544642 -46.30208,3.401785 -4.7247,7.559524 z"
+       id="prov34" />
+    <path title="Baffinland Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 181.42857,30.427083 18.70982,8.693451 0.18899,6.99256 15.68601,2.645833 2.45685,14.930061 -30.61608,-2.645833 -19.17811,-9.245277 0.65728,-12.488354 z"
+       id="prov35" />
+    <path title="Odaawan" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 179.16071,166.6875 10.01637,-3.96875 25.51339,13.22916 1.13393,6.23661 -4.15774,4.7247 -5.29166,-0.18898 -0.56697,1.88988 -5.29166,-1.51191 -3.59078,0.94494 -4.15773,-2.26785 -5.85864,2.64583 -6.99256,5.29167 -3.59077,5.48065 h -9.26042 l -5.85863,-6.61458 v -4.53572 l -4.15773,0.18899 -2.83483,-6.23661 -5.47879,1.61863 2.53906,-15.50163 z"
+       id="prov36" />
+    <path title="Menominee" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.63024,193.7704 4.63017,2.02126 8.50447,-2.83482 2.45684,-3.02381 2.45685,1.32292 -1.51191,3.02381 6.04762,2.07887 3.96875,-0.37798 3.35454,-0.0472 3.68527,3.82701 -2.99024,2.16172 -7.34991,-0.66818 -3.87541,3.60814 -21.12072,-1.73164 -1.46914,-5.07093 -3.57747,-0.96962 -0.0133,-3.18812 z"
+       id="prov37" />
+    <path title="Montagnais" class="gAlonquian tSubarctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 214.69047,175.94791 13.29043,-1.02001 5.21176,-3.8754 2.93996,0.93544 4.00905,-7.34991 24.72244,-7.88445 6.14481,-4.61817 -45.16815,-9.07142 -25.51339,11.15029 -16.63095,-5.85863 5.48065,14.3631 z"
+       id="prov38" />
+    <path title="Cree" class="gAlonquian tSubarctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 183.69643,148.35565 -5.10268,-2.64583 1.5119,-4.91369 7.9375,-2.64583 3.96875,-11.52828 33.82887,16.44197 -25.51339,11.15029 z"
+       id="prov39" />
+    <path title="Naskapi" class="gAlonquian tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 192.0119,126.62202 c 0,0 1.7009,-16.44196 2.45685,-16.44196 0.75595,0 8.50446,-2.45685 8.50446,-2.45685 l 18.14286,9.44941 11.71726,-5.10268 7.74851,1.70089 9.07143,12.47322 19.27679,3.77976 2.64584,-3.77976 6.61458,2.83482 -0.37798,3.59077 3.02381,2.83482 -4.53572,5.85863 -5.29167,10.77232 -45.16815,-9.07142 z"
+       id="prov40" />
+    <path title="Labrador Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 192.0119,126.62202 -3.21279,-7.37053 -5.66965,0.18898 -2.83482,-4.7247 5.66964,-4.91369 c 0,0 -5.29166,-6.42559 -4.15773,-6.23661 1.13392,0.18899 -2.45685,-9.638388 -2.45685,-9.638388 l 0.75595,-3.401785 8.88244,1.511903 5.66965,-3.023809 5.85863,3.401785 9.26041,3.590774 2.07887,8.69345 5.29167,4.34673 5.10268,1.13393 4.53571,-7.74851 -1.5119,-4.724707 1.5119,-4.913688 2.83482,1.700892 11.71727,12.284223 15.68601,14.93006 9.63838,-0.18899 4.91371,4.72471 -2.64584,3.77976 -19.27679,-3.77976 -9.07143,-12.47322 -7.74851,-1.70089 -11.71726,5.10268 -18.14286,-9.44941 -8.57184,2.49672 z"
+       id="prov41" />
+    <path title="Southampton Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 207.9497,62.779806 13.61674,14.594721 -3.20724,9.888974 -19.10977,-2.405428 -10.28988,-9.354433 -7.75081,6.013566 -12.56167,6.280832 -12.82894,2.271792 -0.13363,-15.367997 31.67144,-4.543584 0.49822,-9.115094 z"
+       id="prov42" />
+    <path title="Greenland Eskimo" class="gEskimoAleut tArctic"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 177.64881,0.56696427 15.05252,-4.70964177 8.81989,7.216277 20.17885,18.0406925 27.12786,28.063301 22.18337,14.298919 13.89801,-4.810852 0.26728,-18.040691 -4.81086,-12.027131 -6.68174,-4.677216 3.34087,-15.501632 1.20271,-9.35443333 -5.87994,-10.28987667 2.80633,-14.29892 -6.41445,-14.566188 -6.01357,8.552624 0.13364,15.367998 1.33634,8.2853551 -0.8018,8.28535518 -2.00453,8.68625962 v 4.1426771 l 1.87089,14.298919 8.28536,13.096209 6.28084,6.681737 0.66818,4.944485 -10.95807,1.469983 -18.97613,-15.501633 -0.93545,-8.686258 -5.07812,-6.949008 L 233.59356,9.621703 215.2856,-0.80180856 207.26752,-5.8799295 182.54509,-13.630746 Z"
+       id="prov43" />
+    <path title="Greenland Icecap" class="gNone tIcecap uninhabited"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.8543,-41.961315 0.40091,-13.229842 c 0,0 5.61266,-12.294398 7.08264,-12.160763 1.46998,0.133636 10.55715,-1.069078 10.55715,-1.069078 l 6.5481,-6.414468 24.72243,14.298919 22.18337,4.677217 16.03617,13.363477 7.3499,-1.33635 2.00454,3.741775 -6.01357,8.552624 0.13364,15.367998 1.33634,8.2853553 -0.8018,8.28535498 -2.00453,8.68625942 v 4.1426773 l 1.87089,14.298919 8.28536,13.096209 6.28084,6.681737 0.66818,4.944485 -10.95807,1.469983 -18.97613,-15.501633 -0.93545,-8.686258 -14.03165,-19.91158 -26.32604,-15.5016325 -24.72243,-7.7508165 -5.07813,-11.759859 z"
+       id="prov44" />
+    <path title="Beothuk" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 282.4427,139.00074 -4.72469,4.34673 0.0945,11.24479 -1.51191,3.68527 2.36236,3.30729 -1.60639,5.85863 0.47246,5.10268 8.03198,-3.02381 v -19.74926 l -2.36235,0.75596 -0.75595,3.21279 -1.13392,-3.59077 0.94493,-6.14211 2.45684,-1.22843 z"
+       id="prov45" />
+    <path title="Huron" class="gIroquoian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.32589,199.19345 1.98438,1.6064 1.88988,-1.03944 4.81919,4.63021 -0.0945,3.68527 -1.98438,1.51191 -1.5119,2.36235 -4.7247,1.22842 -0.18899,4.15774 -2.64583,2.26785 -1.7009,5.29167 3.68527,1.03943 c 0,0 1.70089,-2.92931 2.07887,-2.92931 0.37798,0 5.95312,-0.94494 5.95312,-0.94494 l 2.07887,-1.98438 2.74033,0.56697 1.32292,-1.70089 -2.36235,-0.75596 0.66145,-3.59077 8.69346,-2.36235 3.21279,1.22842 0.0945,-2.64583 5.95312,-10.29985 7.65402,-0.94495 2.92932,-6.80356 9.4494,-6.33111 3.49628,-5.38616 -12.37872,-1.79538 0.85045,-1.51191 9.92187,1.51191 3.2128,-2.45685 4.7167,-4.81042 -2.93996,-0.93544 -5.21176,3.8754 -13.29043,1.02001 1.13393,6.23661 -4.15774,4.7247 -5.29166,-0.18898 -0.56697,1.88988 -5.29166,-1.51191 -3.59078,0.94494 -4.15773,-2.26785 -5.85864,2.64583 -6.99256,5.29167 z"
+       id="prov46" />
+    <path title="Sauk and Fox" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.88656,203.1305 1.46017,5.03989 2.55134,3.87425 14.03561,1.57053 2.93997,-2.80633 0.26726,-2.6727 -2.60587,0.20045 2.47224,-3.47445 z"
+       id="prov47" />
+    <path title="Winnebago" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.89807,212.04464 -0.0945,4.25223 -2.64583,2.36235 17.17685,2.90722 -0.40091,-7.95127 z"
+       id="prov48" />
+    <path title="Kickapoo" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.15774,218.65922 -3.53654,3.17448 -0.93544,5.21176 4.20949,4.34313 10.15624,0.66818 7.2831,-10.49033 z"
+       id="prov49" />
+    <path title="Illinois" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.68576,227.04546 -4.54359,4.81085 -2.80633,6.68174 2.00453,2.27179 -0.40091,3.20723 0.13363,5.07813 40.49134,-9.68852 -20.51294,-7.34991 -10.15624,-0.66818 z"
+       id="prov50" />
+    <path title="Shawnee" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.07309,249.0952 5.17096,6.4167 -1.7009,7.37054 9.07143,5.48065 1.13393,-6.2366 3.40179,0.18898 1.32291,-3.59077 6.23661,-0.56696 3.02381,5.85862 13.04018,6.80357 11.1503,-7.93749 3.59077,-10.01637 4.53571,1.32292 2.83482,-3.40179 -2.64583,-10.39435 -4.7247,-6.42559 -6.23661,-0.18899 -8.71384,5.62841 z"
+       id="prov51" />
+    <path title="Miami" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 141.05149,232.05677 7.2831,-10.49033 1.15499,6.73118 4.91369,-3.40179 8.88244,1.70089 -1.13393,2.64584 8.12649,4.53571 -8.71384,5.62841 z"
+       id="prov52" />
+    <path title="Potawatomi" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.40327,224.89583 0.51972,-6.66183 -1.13393,-2.64583 0.18899,-2.97657 2.4096,0.28349 1.03943,-6.37835 4.91369,-2.22061 c 0,0 2.45685,-2.36235 2.64584,-2.36235 0.18898,0 4.44121,3.26004 4.44121,3.26004 l -0.51971,7.65402 2.4096,-1.65365 2.22061,1.08669 0.33073,4.6302 -4.96094,-0.66145 -2.50409,2.3151 -2.31511,-0.66146 v 2.45685 l -0.8032,6.2366 z"
+       id="prov53" />
+    <path title="Erie" class="gIroquoian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 173.86905,216.91108 -4.15774,11.05581 4.68206,1.61763 7.34991,-3.34087 7.88445,5.87993 -8.38815,8.26927 -4.7247,-6.42559 -6.23661,-0.18899 -8.12649,-4.53571 1.13393,-2.64584 0.8032,-8.69345 2.31511,0.66146 2.50409,-2.3151 z"
+       id="prov54" />
+    <path title="Conestoga" class="gIroquoian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 183.88541,250.7872 3.60416,0.98069 0.93544,-1.87088 h 1.06908 l 4.94449,-6.01357 -0.26727,-7.21628 1.87089,-0.26726 v -3.87542 l -4.47677,-2.20497 -1.9377,1.80407 -8.38815,8.26927 z"
+       id="prov55" />
+    <path title="Seneca" class="gIroquoian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 181.74328,226.24365 7.34991,-3.4745 18.64205,11.35895 0.33409,5.21176 0.4009,3.87541 -1.9377,0.73499 -0.20046,-3.40769 -1.06908,2.93997 -2.3386,-0.53454 -2.53906,-6.28084 -4.34313,-0.26726 v -3.87542 l -4.47677,-2.20497 -1.9377,1.80407 z"
+       id="prov56" />
+    <path title="Cayuga" class="gIroquoian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.09319,222.76915 3.0736,-2.20497 17.17206,1.87088 0.26727,7.08264 -1.87088,4.6104 z"
+       id="prov57" />
+    <path title="Onondaga" class="gIroquoian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 192.16679,220.56418 -0.60136,-2.47225 c 0,0 1.06908,-1.9377 1.73725,-1.9377 0.66818,0 5.7463,1.06908 5.7463,1.06908 l 3.34087,-2.07134 12.29439,1.13589 0.0668,3.54132 -3.8754,0.93545 -1.53681,1.67043 z"
+       id="prov58" />
+    <path title="Oneida" class="gIroquoian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 202.38985,215.15197 2.13815,-1.93771 -0.60135,-2.93996 9.55488,-0.13364 0.0668,3.87541 1.13589,2.27179 z"
+       id="prov59" />
+    <path title="Mohawk" class="gIroquoian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 249.65327,166.6875 5.85863,2.83482 -1.13393,4.34673 -5.48065,-1.7009 -4.34673,2.26786 -8.88244,15.49702 -5.85863,3.96875 -8.69345,12.47322 -1.13393,5.10267 -6.45881,1.08807 -0.0418,-2.42508 -9.55488,0.13364 8.87394,-7.58457 5.29167,-4.7247 0.94494,-4.34673 6.80357,-3.59077 8.88244,-13.13467 8.69345,-7.18155 z"
+       id="prov60" />
+    <path title="Cherokee" class="gIroquoian tSoutheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.77381,270.81993 4.25223,8.03201 3.96875,0.66146 12.09524,-5.85865 1.5119,4.63021 2.55134,-5.29166 1.3363,-21.22541 -3.60416,-0.98069 -2.83482,3.40179 -4.53571,-1.32292 -3.59077,10.01637 z"
+       id="prov61" />
+    <path title="Catawba" class="gSiouan tSoutheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 183.60193,278.28496 c 0,0 8.31548,3.49629 8.69345,3.87427 0.37798,0.37796 3.87426,-3.59079 3.87426,-3.59079 l 2.64583,-0.0945 2.92932,-3.87426 -2.55134,-4.63021 2.64583,-3.30729 2.74033,-3.77975 -0.56696,-2.45685 -17.12605,0.91972 -0.73333,11.64799 z"
+       id="prov62" />
+    <path title="Tuscarora" class="gSiouan tSoutheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194.43858,243.88344 5.69981,1.89557 0.0945,5.48066 3.02382,5.38616 0.75595,3.77975 -17.12605,0.91972 0.60297,-9.57741 0.93544,-1.87088 h 1.06908 z"
+       id="prov63" />
+    <path title="Micmac" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 254.37797,173.86905 -1.98437,8.59895 c 0,0 14.83556,-0.75595 15.21355,-0.75595 0.37795,0 5.57514,-4.63021 6.0476,-4.63021 0.47247,0 2.74035,5.48066 2.26785,5.76414 -0.47246,0.28348 1.98438,0.18899 1.98438,0.18899 l 0.0945,4.63021 -3.59077,0.47247 0.0945,3.1183 -6.61458,2.64583 -12.28422,-3.21279 -19.93825,-0.75596 8.88244,-15.49702 4.34673,-2.26786 z"
+       id="prov64" />
+    <path title="Abnaki" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 267.89062,193.90178 0.47247,3.2128 -3.59077,-0.18899 -1.22842,1.6064 -3.68527,0.28348 -3.11831,8.22099 -3.96875,-0.47247 c 0,0 -1.13392,-8.12649 -0.75595,-8.12649 0.37798,0 5.95313,-4.7247 5.95313,-4.7247 l -3.49628,-0.66146 -4.8192,4.34672 -4.91369,0.94494 -1.03943,3.3073 -5.57515,5.38616 -5.00819,-0.56697 -8.32295,-5.37133 5.01566,-7.19638 5.85864,-3.96875 19.93825,0.75596 z"
+       id="prov65" />
+    <path title="Mohican" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 214.68424,216.28786 15.59775,2.65485 2.17336,-5.66965 2.964,-6.5429 -2.30254,-0.26067 -8.32295,-5.37133 -3.67779,5.27684 -1.13393,5.10267 -6.45881,1.08807 0.025,1.45033 z"
+       id="prov66" />
+    <path title="Marraganset" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 214.75104,219.82918 -0.24955,4.12171 2.83482,7.18155 1.6064,2.36235 c 0,0 3.59077,-2.92932 4.06324,-2.92932 0.47247,0 3.02381,0.28349 3.40179,0.18899 0.37797,-0.0945 1.03943,-3.02381 1.03943,-3.02381 l -2.07887,-0.28348 0.66146,-1.32292 5.76414,0.37798 1.70089,-2.36235 3.96875,0.18899 -0.47247,-3.2128 -3.59077,1.22842 -0.66146,-2.92932 -2.45685,-0.47246 -15.59775,-2.65485 z"
+       id="prov67" />
+    <path title="Delaware" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 206.53253,243.95026 0.50393,5.04155 1.60639,1.03944 -0.47247,5.00818 h 2.36236 l 2.74032,-4.7247 0.75595,-4.91369 -2.55134,-1.13393 0.94495,-1.5119 2.83482,-0.47247 2.55134,-6.52009 -2.85727,-6.11131 -0.45002,-5.70045 0.24955,-4.12171 -3.8754,0.93545 -1.53681,1.67043 0.26729,7.08264 -1.87088,4.6104 0.73499,9.08717 z"
+       id="prov68" />
+    <path title="Powhatan" class="gAlonquian tNortheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 201.74479,274.59969 1.51191,-2.17334 3.87425,0.47246 1.32292,-2.45684 -0.47247,-3.02381 4.15773,-1.41743 -0.85044,-6.89806 -2.07887,-2.24423 -2.14974,-1.63002 -1.13393,-4.96094 -0.66316,-6.78494 -2.3386,-0.53454 -2.53906,-6.28084 -4.34313,-0.26726 -1.87089,0.26726 0.26727,7.21628 5.69981,1.89557 0.0945,5.48066 3.02382,5.38616 1.3229,6.2366 -5.38616,7.08705 z"
+       id="prov69" />
+    <path title="Seminole" class="gOtherGroups tSoutheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 183.60193,278.28496 -14.36309,16.81994 -14.93006,6.61458 6.89806,4.15774 c 0,0 6.33111,-0.75594 6.52009,-1.88987 0.18899,-1.13392 5.38616,2.74032 5.38616,2.74032 l 2.26786,4.63021 -1.32292,4.25222 2.26786,8.97695 2.64583,0.85045 -0.18898,3.87426 4.06324,0.75594 1.79539,3.59077 h 3.30729 l 3.1183,-4.25222 -1.03943,-7.65403 -2.26786,-5.19716 v -3.68527 l -3.1183,-4.44122 -3.87426,-6.70909 0.85045,-6.52008 2.55134,-7.27604 8.304,-5.76339 z"
+       id="prov70" />
+    <path title="Creek" class="gOtherGroups tSoutheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.30878,301.71948 -8.37962,-0.50673 2.80633,-9.75535 -10.15624,-6.94899 -1.33635,-6.68173 28.78314,1.02526 3.96875,0.66146 12.09524,-5.85865 1.5119,4.63021 -14.36309,16.81994 z"
+       id="prov71" />
+    <path title="Chickasaw" class="gOtherGroups tSoutheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.2429,277.82668 -9.48807,-0.93546 5.85975,-8.52813 1.13393,-6.2366 3.40179,0.18898 1.32291,-3.59077 6.23661,-0.56696 3.02381,5.85862 13.04018,6.80357 4.25223,8.03201 z"
+       id="prov72" />
+    <path title="Biloxi" class="gSiouan tSoutheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 145.92916,301.21275 -12.96257,0.26728 3.34087,2.27179 -0.40091,2.13815 3.34087,2.13815 -1.06907,1.60362 -12.16077,-0.8018 -2.93996,-4.40996 -4.54359,1.0691 -6.1472,-2.13818 9.75534,-8.68624 25.52234,0.51567 z"
+       id="prov73" />
+    <path title="Choctaw" class="gOtherGroups tSoutheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.14217,294.66466 3.87541,-9.35445 12.56167,-0.8018 10.15624,6.94899 -1.07098,3.72293 z"
+       id="prov74" />
+    <path title="Natchez" class="gOtherGroups tSoutheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.14217,294.66466 -18.04069,-12.56168 -1.06908,-7.34991 -7.082644,-1.73726 -3.875405,-4.6772 17.105249,0.13362 4.81085,-1.60361 6.54811,2.40543 3.8754,6.68173 3.34087,0.93544 9.48807,0.93546 1.33635,6.68173 -12.56167,0.8018 z"
+       id="prov75" />
+    <path title="Quapaw" class="gSiouan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.75483,276.89122 5.85975,-8.52813 -9.07143,-5.48065 0.80254,-3.47766 -32.978176,-0.25203 -0.293163,9.18586 17.105249,0.13362 4.81085,-1.60361 6.54811,2.40543 3.8754,6.68173 z"
+       id="prov76" />
+    <path title="Osage" class="gSiouan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.34569,259.40478 0.89836,-3.89288 -34.987,-3.7072 1.218203,3.97223 -0.107741,3.37582 z"
+       id="prov77" />
+    <path title="Kansa" class="gSiouan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.24405,255.5119 -5.17096,-6.4167 -27.127852,-1.87089 -3.809198,0.92509 1.12101,3.6553 z"
+       id="prov78" />
+    <path title="Missouri" class="gSiouan tPlains"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.07309,249.0952 -0.13363,-5.07813 -17.90706,-0.93544 -5.34539,-3.60814 -3.741772,7.75082 z"
+       id="prov79" />
+    <path title="Caddo" class="gOtherGroups tSoutheast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.38683,303.3509 -4.00904,0.66818 -13.363474,-5.87992 2.967524,-10.01686 6.11964,-6.01932 18.04069,12.56168 z"
+       id="prov80" />
+    <path title="Northern Apache" class="gAthabaskan tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.380951,286.03347 21.777298,-13.95309 -6.687084,-8.54845 -28.859763,-1.34053 -16.30344,0.13364 3.425669,3.01423 -1.984375,10.48885 4.724702,4.44122 6.425594,0.94493 -0.28348,5.00819 1.889879,3.30729 4.535715,2.07889 2.267858,-3.96875 z"
+       id="prov81" />
+    <path title="Southern Apache" class="gAthabaskan tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.380951,286.03347 2.55134,10.48885 6.331101,4.15774 4.724701,-4.25225 6.52009,4.72472 2.929316,6.99257 11.433781,6.2366 3.96875,-2.83483 8.174286,-13.40771 2.967522,-10.01686 -2.032082,1.99877 -9.488064,1.20272 -5.612662,-3.87541 -3.608136,-10.55716 -7.082645,-4.81084 z"
+       id="prov82" />
+    <path title="Navajo" class="gOtherGroups tGreatBasin"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.169806,246.95704 -2.873147,-2.53906 -1.870887,1.20271 -6.0135641,-4.54358 -4.0758603,6.08038 c 0,0 -0.1336347,5.14494 -0.3340869,5.7463 -0.20045214,0.60135 -2.80633,5.27857 -2.80633,5.27857 l 20.1120313,4.14268 -4.142677,-11.22532 z"
+       id="prov83" />
+    <path title="Yavapai" class="gOtherGroups tCalifornia"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1.8040693,258.18236 -13.8819427,-4.37135 -1.322916,9.26041 1.133928,8.69347 8.5044643,3.96875 1.5119049,-3.77979 v -9.07141 l 5.66964271,6.99256 8.31547619,-3.40178 4.3467259,0.75594 5.834748,-4.90412 z"
+       id="prov84" />
+    <path title="Pima" class="gUto-Aztecan tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -0.18898809,269.875 3.40178559,4.34673 -0.9449404,5.00817 1.5119047,4.6302 -0.1889879,3.02382 20.8831841,-6.61458 -4.724702,-4.44122 1.984375,-10.48885 -3.425669,-3.01423 -5.834748,4.90412 -4.3467259,-0.75594 z"
+       id="prov85" />
+    <path title="Papago" class="gUto-Aztecan tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3.5907739,286.88392 c 0,0 2.4568451,4.44122 2.4568451,4.8192 0,0.37799 1.7953868,5.95313 1.7953868,5.95313 l 3.4962802,2.55135 25.70238,-8.59896 -4.535715,-2.07889 -1.889879,-3.30729 0.28348,-5.00819 -6.425594,-0.94493 z"
+       id="prov86" />
+    <path title="Concho" class="gUto-Aztecan tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 11.339286,300.2076 -0.283483,2.9293 2.078869,2.55133 2.645834,2.83482 28.064733,1.51191 13.418153,-9.3549 -6.331101,-4.15774 -2.55134,-10.48885 -9.071427,1.60642 -2.267858,3.96875 z"
+       id="prov87" />
+    <path title="Yaqui" class="gUto-Aztecan tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.780506,308.52305 -0.47247,5.29167 0.755952,3.02382 3.779762,2.55135 0.755952,4.15771 3.779762,2.83483 0.755952,2.55135 24.001489,-10.86681 -5.291666,-8.03201 z"
+       id="prov88" />
+    <path title="Lipan Apache" class="gOtherGroups tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.845239,310.03496 5.291666,8.03201 5.197171,-4.91371 5.386162,4.15774 18.331844,1.8899 4.819198,-4.8192 -11.433781,-6.2366 -2.929316,-6.99257 -6.52009,-4.72472 -4.724701,4.25225 z"
+       id="prov89" />
+    <path title="Borjeno" class="gOtherGroups tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -15.875,271.76489 1.511905,5.85861 5.6696427,8.50448 -1.8898807,8.69344 -3.590774,-3.21278 c 0,0 -0.755952,0.37796 -1.133929,1.13392 -0.377976,0.75594 2.267858,5.29167 2.267858,5.29167 l 6.4255948,3.77976 5.2916666,5.48066 v 4.15774 l -1.7008928,5.66962 4.346726,3.59079 1.7008928,5.48064 3.2127978,2.26787 0.5669642,4.15774 5.1026786,0.37796 0.188988,-3.77976 -3.5907739,-5.85861 -2.9293152,-0.85045 0.2834819,-4.34674 -2.4095982,-5.10267 0.5197174,-7.08705 -2.5513393,-4.25225 -2.9293154,-5.95313 -0.2834822,-5.48063 -2.0316221,-4.58298 -0.377976,-4.06323 -3.1183035,-2.64583 -0.047247,-3.26004 z"
+       id="prov90" />
+    <path title="Karankawa" class="gOtherGroups tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 108.37779,304.01908 -7.34991,4.40994 -7.884451,1.8709 -5.345391,8.95352 -9.745958,-0.0525 4.8192,-4.8192 3.96875,-2.83483 8.174286,-13.40771 z"
+       id="prov91" />
+    <path title="Tamaulipec" class="gOtherGroups tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.00075,328.60789 -4.27631,7.48353 -2.539061,12.82893 -25.791509,-4.6772 -14.833459,-2.93997 18.040694,-7.08263 16.169806,-0.53454 z"
+       id="prov92" />
+    <path title="Huichol" class="gUto-Aztecan tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.135416,328.93378 3.729691,5.42039 2.939966,8.41898 -0.267269,3.47451 10.022607,-4.94448 18.040694,-7.08263 v 0 l 0.119133,-16.90955 -5.386162,-4.15774 -5.197171,4.91371 z"
+       id="prov93" />
+    <path title="Coahuiltec" class="gOtherGroups tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 59.601105,334.22055 16.169806,-0.53454 13.229839,-5.07812 1.336349,-6.01358 -2.539063,-3.34087 -9.745956,-0.0525 -18.331842,-1.88992 z"
+       id="prov94" />
+    <path title="Northern Aztec" class="gUto-Aztecan tSouthwest"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31.537804,346.24766 2.138156,3.74179 -2.405425,5.21174 2.672694,8.41899 7.216277,2.67271 c 0,0 3.875408,4.81084 4.677217,5.47902 0.801809,0.66818 12.695303,7.21627 12.695303,7.21627 l 31.270533,-10.15624 -6.81537,-11.09168 1.603615,-4.81086 -2.405427,-4.00905 -40.624966,-7.61717 z"
+       id="prov95" />
+    <path title="Southern Aztec" class="gUto-Aztecan tMesoamerica"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.532026,378.98818 2.138157,2.53908 10.15624,3.60812 7.349913,5.87994 12.160763,3.07359 7.349911,-3.60813 4.00904,-12.82895 -11.893491,-8.81989 z"
+       id="prov96" />
+    <path title="Western Mayan" class="gOtherGroups tMesoamerica"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 101.69605,377.65183 15.10073,-2.13816 c 0,0 2.53906,2.2718 3.34087,2.53908 0.80181,0.26725 16.97162,13.49711 16.97162,13.49711 l -1.06908,2.67269 v 4.81084 h -25.79151 l -1.06908,-3.60813 -11.49259,-4.94448 z"
+       id="prov97" />
+    <path title="Eastern Mayan" class="gOtherGroups tMesoamerica"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.39275,378.20245 5.62483,-10.97412 1.87089,-6.81538 7.61718,-1.20271 c 0,0 5.74629,-2.80633 6.68174,-2.40544 0.93544,0.40093 8.68626,2.53908 8.68626,2.53908 l -3.74178,6.54809 -3.20723,11.22532 -2.6727,-0.4009 -1.06907,9.35445 0.66817,3.60812 -3.74177,1.8709 z"
+       id="prov98" />
+    <path title="Mosquito" class="gOtherGroups tMesoamerica"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.04019,394.22255 9.6217,-0.13364 5.21176,1.73725 2.00452,-2.67269 c 0,0 4.67721,1.73726 5.87993,1.60361 1.20271,-0.13364 4.94448,-1.46997 4.94448,-1.46997 l 9.2208,6.28084 -36.88319,-0.53456 z"
+       id="prov99" />
+    <path title="Ciboney" class="gOtherGroups tCaribbean"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 169.04797,348.11856 -6.5481,8.68624 4.27631,-0.26725 1.60362,-2.00454 2.93996,0.26728 2.00452,-2.53905 5.7463,0.13362 5.07812,2.13815 15.63527,-2.13815 -15.10073,-4.94448 z"
+       id="prov100" />
+    <path title="Subtaino" class="gOtherGroups tCaribbean"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 184.1487,354.53301 8.95353,3.60815 6.81537,0.13364 2.13816,3.74176 5.34539,0.26729 5.87993,-5.34541 -13.49711,-4.54358 z"
+       id="prov101" />
+    <path title="Western Taino" class="gOtherGroups tCaribbean"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 207.40115,362.28385 1.87089,2.27179 -3.47451,2.67269 1.06908,1.20271 15.368,-0.93546 0.26727,-1.73723 5.61266,-1.0691 -4.94449,-4.14266 h -4.54358 l -1.20271,-2.67269 -4.14268,-0.93546 z"
+       id="prov102" />
+    <path title="Eastern Taino" class="gOtherGroups tCaribbean"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 234.79628,363.75382 -2.00452,2.40543 3.74177,2.53905 0.80181,4.81086 -10.15625,0.13365 -1.46998,1.60361 4.54359,2.40541 2.40542,-1.60362 8.68626,-0.40089 4.14268,3.07361 2.27179,-0.80182 0.13363,-3.74177 3.60814,0.66816 2.6727,0.53453 2.67269,-2.27176 5.21176,0.13361 3.74177,0.53454 -1.60362,-4.81084 -4.14267,-0.53454 -2.27179,-2.40543 -1.73726,0.93543 -1.33634,-3.34086 -4.94449,0.53454 -2.67269,-1.87087 -2.40543,1.46997 -3.74177,-0.26726 -0.53454,1.33633 z"
+       id="prov103" />
+    <path title="Mono" class="gUto-Aztecan tCalifornia"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -15.686012,253.81101 -7.370535,-10.96131 5.102678,-7.37054 6.614583,-8.31547 c 0,0 0.377977,-10.58334 0.944941,-9.07143 0.5669642,1.5119 15.8065529,22.98485 15.8065529,22.98485 l -4.0758603,6.08038 -0.37900791,5.86006 -2.76140899,5.16481 z"
+       id="prov104" />
+    <path title="Southern Paiute" class="gUto-Aztecan tGreatBasin"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1.7261544,230.94196 9.5691602,-8.40848 29.0605562,-3.69335 -2.826698,14.75343 -2.806329,-1.60361 -13.096207,11.09168 v 3.0736 l -2.004522,0.80181 -2.873147,-2.53906 -1.870887,1.20271 -6.0135641,-4.54358 z"
+       id="prov105" />
+    <path title="Shoshone" class="gUto-Aztecan tGreatBasin"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1.7261544,230.94196 -8.7322656,-12.97121 -2.770747,-6.49308 0.566965,-6.80357 51.947276,1.31839 -2.381512,12.84764 -29.0605562,3.69335 z"
+       id="prov106" />
+    <path title="Northern Paiute" class="gUto-Aztecan tGreatBasin"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -12.662202,204.6741 0.47247,-6.14211 0.09449,-6.23661 3.1183037,-4.44122 5.1971725,-1.32291 5.1026784,1.03943 6.1421131,0.85045 9.8273813,3.87425 10.677828,-3.96875 7.654017,2.07887 5.802519,4.03308 -2.141701,11.55391 z"
+       id="prov107" />
+    <path title="Okinagan" class="gOtherGroups tPlateu"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 11.22532,129.35845 -6.5481032,18.57523 12.0271282,8.41899 24.588797,2.40543 1.469983,-6.54811 -1.870888,-6.28083 -1.737251,-9.75534 h -3.608139 l -6.548104,-13.0962 -6.414468,-3.34087 -4.810852,5.07812 -1.737251,4.94448 z"
+       id="prov108" />
+    <path title="Kwakiutl" class="gOtherGroups tNorthwestCoast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -15.119047,109.42411 10.0409261,11.11445 -6.4144681,4.54358 4.9444858,7.61718 c 0,0 1.8708864,10.28988 1.8708864,10.95805 0,0.66817 -2.6726951,9.08716 -2.6726951,9.08716 l 9.8889724,3.60814 2.1381563,-8.41899 6.5481032,-18.57523 -5.4790252,-9.48807 z"
+       id="prov109" />
+    <path title="Chumash" class="gOtherGroups tCalifornia"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -23.056547,242.8497 -6.343101,-6.58344 1.202714,-6.1472 -1.603618,-6.01356 0.935445,-5.7463 -2.138159,-9.6217 17.774099,2.74017 2.770747,6.49308 -0.880866,9.19294 z"
+       id="prov110" />
+    <path title="Yurok" class="gOtherGroups tCalifornia"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -31.003266,208.7375 c 0,0 -1.069078,-8.28536 -0.400902,-8.41899 0.668173,-0.13364 2.539061,-2.80633 2.539061,-2.80633 l -1.737254,-5.87993 5.345391,-5.34539 16.2800317,1.5673 -3.1183037,4.44122 -0.56696,12.37872 -0.566965,6.80357 z"
+       id="prov111" />
+    <path title="Bannock" class="gOtherGroups tPlateu"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.704345,156.35267 -9.2393195,32.06846 9.8273815,3.87425 10.677827,-3.96875 7.654017,2.07887 5.802519,4.03308 7.742915,-2.63983 -3.8675,-20.21172 0.668174,-5.61266 -4.677217,-7.21627 z"
+       id="prov112" />
+    <path title="Chinnok" class="gOtherGroups tNorthwestCoast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -7.3499119,152.74453 -0.534539,5.47903 -6.5481031,7.75081 -2.80633,5.87993 27.057261,8.39866 6.885968,-23.90029 -12.0271282,-8.41899 -2.1381563,8.41899 z"
+       id="prov113" />
+    <path title="Klamath" class="gOtherGroups tNorthwestCoast"
+       style="stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -17.238884,171.8543 -5.87993,6.28084 -2.138156,8.15172 16.2800317,1.5673 5.1971725,-1.32291 11.2447913,1.88988 2.3533513,-8.16817 z"
+       id="prov114" />
+  </g>
+</svg>

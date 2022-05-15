@@ -1,0 +1,64 @@
+#map-sea {
+    background-color: lightblue;
+}
+
+#map svg > g {
+    margin: 0 auto;
+}
+#map {
+    margin: auto;
+}
+#map > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#map svg path {
+    fill: lightgray;
+    pointer-events: all;
+}
+
+#map svg path:hover:not(.uninhabited):not(.inhabited) {
+    fill: white;
+    cursor: pointer;
+}
+
+
+
+/* Map section views */
+#map-views > div.flexBox > div {
+    margin: 4px 4px;
+    background-color: #f3dcba;
+    border: 2px outset #f3dcba;
+    cursor: pointer;
+}
+#map-views > div.flexBox > div.selected:hover img { opacity: 1; cursor: initial; }
+#map-views > div.flexBox > div:hover img { opacity: .5; }
+#map-views > div.flexBox > div.selected {
+    background-color: #f3dcba;
+    border: 2px inset #f3dcba;
+}
+
+#map-views > div.flexBox > div img {
+    width: 32px;
+    height: 28px;
+}
+
+
+/* Map section selecting */
+#map-select-info { margin: 10px 0; }
+#map-select-info select { margin: 10px 0; }
+
+#map svg path.selected { fill: white; }
+
+
+/* Map bottom (select) section */
+.province__name {
+    margin: 20px 0;
+}
+button[name=play] {
+    margin: 20px 0;
+}

@@ -1,0 +1,9 @@
+/* Language config colours */
+#map .gSiouan { fill: #ff90b5; }
+#map .gAlonquian { fill: #4caf50; }
+#map .gIroquoian { fill: #ffc107; }
+#map .gAthabaskan { fill: #3f51b5; }
+#map .gEskimoAleut { fill: #607d8b; }
+#map .gOtherGroups { fill: #3ae9ff; }
+#map .gUto-Aztecan { fill: #ffef63; }
+#map .gNone { fill: lightgray; }

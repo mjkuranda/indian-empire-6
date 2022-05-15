@@ -1,0 +1,4 @@
+/* Tribal config colours */
+#map :not(.inhabited) { fill: #4caf50; }
+
+#map .uninhabited { fill: lightgray; }

@@ -1,0 +1,17 @@
+main {
+    background-color: transparent;
+}
+
+
+
+/* --- Game bar --- */
+#game-bar {
+    width: 100%;
+    min-height: 32px;
+    padding: 4px 0;
+}
+#game-bar-location > div + div { margin: 0 20px; }
+#game-bar-location-back-sec { color: #97651a; cursor: pointer; }
+/* #game-bar-location-back-sec img:hover { fill: #97651a; } */
+#game-bar-location > div > img, #game-bar-exit { width: 32px; }
+#game-bar-location > div > p { margin-left: 5px; }

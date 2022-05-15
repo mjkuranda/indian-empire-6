@@ -1,0 +1,24 @@
+/* Changes in regard to map-config.css */
+#map svg path.inhabited:hover, #map svg path.uninhabited:hover {
+    fill: white;
+    cursor: pointer;
+}
+#map svg path.uninhabited {
+    cursor: pointer;
+}
+
+
+
+/* map subsite */
+
+/* Styling */
+#prov-desc {
+    padding: 20px 0;
+}
+#prov-desc .prov__desc div {
+    padding: 10px;
+}
+
+#prov-desc p {
+    text-align: center;
+}

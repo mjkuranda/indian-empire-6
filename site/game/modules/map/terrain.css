@@ -1,0 +1,14 @@
+/* Terrain config colours */
+#map .tArctic { fill: #0044bb; }
+#map .tSubarctic { fill: #6699ff; }
+#map .tPlains { fill: #22bb22; }
+#map .tNortheast { fill: #228822; }
+#map .tNorthwestCoast { fill: #3f51b5; }
+#map .tGreatBasin { fill: #ff9800; }
+#map .tPlateu { fill: #a46405; }
+#map .tSouthwest { fill: #ffc107; }
+#map .tSoutheast { fill: #cddc39; }
+#map .tMesoamerica { fill: #86f586; }
+#map .tCalifornia { fill: #de89d6; }
+#map .tCaribbean { fill: #00bcd4; }
+#map .tIcecap { fill: lightgray; }

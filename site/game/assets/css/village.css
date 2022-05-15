@@ -1,0 +1,32 @@
+/* Main village section container */
+#village { padding-bottom: 40px; }
+
+/* Village title section */
+#village__title {
+    padding: 40px 0;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+/* Village population section */
+#village > section > .__title {
+    margin: 20px 0;
+}
+#village table {
+    min-width: 400px;
+    text-align: center;
+    margin-bottom: 5px;
+    border: 1px solid #97651a;
+    border-collapse: collapse;
+}
+#village table tr {
+    background-color: #b97b20;
+}
+#village table tr:first-child {
+    /* padding: 10px; */
+    background-color: #97651a;
+}
+#village table th,
+#village table td {
+    padding: 0 10px;
+}
